@@ -1,2 +1,2 @@
 # Development_and_evaluation_of_XAI
-Project
+The purpose of this project is to implement a machine learning model for alarm prediction in the Øgreyfoss power plant using alarm logs and historical time series data collected through the plant’s SCADA system. This study focuses on predicting alarms related to fault conditions using operational process data provided in standard time series formats. SHAP is used as an explainable Artificial Intelligence (XAI) method to explain the predictions and identify important features.The dataset consists of alarm log and historical operational measurements extracted from the SCADA system.
